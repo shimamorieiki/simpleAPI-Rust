@@ -6,3 +6,5 @@ Rustでシンプルなapiを作ってみる
 [日本語ドキュメント](https://doc.rust-jp.rs/)
 
 [個人サイト](https://caddi.tech/archives/416)
+
+[Zenn](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003/viewer/30450c)
